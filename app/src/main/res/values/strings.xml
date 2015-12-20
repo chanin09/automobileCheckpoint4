@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
+    <string name="h1">20dp</string>
 </resources>
