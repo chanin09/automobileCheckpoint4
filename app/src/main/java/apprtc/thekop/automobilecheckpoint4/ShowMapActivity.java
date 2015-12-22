@@ -2,17 +2,15 @@ package apprtc.thekop.automobilecheckpoint4;
 
 
 import android.support.v4.app.FragmentActivity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 
-public class ShowMapActivity extends FragmentActivity{
+public class ShowMapActivity extends FragmentActivity {
     //Declaring Variable
     private Double douLatitute, douLongtitute;
     private GoogleMap objGoogleMap;
@@ -26,7 +24,7 @@ public class ShowMapActivity extends FragmentActivity{
 
         //Receive Value from MyActivity
         douLatitute = getIntent().getExtras().getDouble("Latitude");
-        douLongtitute = getIntent().getExtras().getDouble("Longtitute");
+        douLongtitute = getIntent().getExtras().getDouble("Longtitude");
 
         //Show Log
         Log.d("FourCity", "Latitute ==> " + Double.toString(douLatitute));
@@ -36,10 +34,11 @@ public class ShowMapActivity extends FragmentActivity{
         objLatLng = new LatLng(douLatitute, douLongtitute);
 
         //Create Google map
-        objGoogleMap = ((SupportMapFragment) getSupportFragmentManager()
+        objGoogleMap =((SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map)).getMap();
         objGoogleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(objLatLng,16));
 
 
+
     }//onCreate
-}
+}//Mainclass

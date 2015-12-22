@@ -3,8 +3,6 @@ package apprtc.thekop.automobilecheckpoint4;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
@@ -19,8 +17,10 @@ public class MyActivity extends AppCompatActivity implements View.OnClickListene
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
+
         //Initial Widget
         initiaWidget();
+
         //About Setonclick button
         btnRatchaburi.setOnClickListener(this);
         btnBangkok.setOnClickListener(this);
@@ -56,14 +56,12 @@ public class MyActivity extends AppCompatActivity implements View.OnClickListene
                 break;
 
         }//switch
+
         //Inten & Put Valre to ShowMapACtivity
         Intent objIntent = new Intent(MyActivity.this, ShowMapActivity.class);
         objIntent.putExtra("Latitude", douLatitude);
         objIntent.putExtra("Longtitude", douLongtitude);
         startActivity(objIntent);
     }//onClick
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {}
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {}
+
 }//main class
