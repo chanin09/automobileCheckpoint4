@@ -2,15 +2,11 @@
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
     <string name="h1">AutomobileCheckpoint</string>
-    <string name="b1">What's Automobile</string>
     <string name="b2">Automobile Detail</string>
     <string name="b3">About Me </string>
-
-
-
-
-
-
+    <string name="b4">Ratchaburi</string>
+    <string name="b5">Bangkok</string>
+    <string name="b6">Khonkaen</string>
 
 
 </resources>
