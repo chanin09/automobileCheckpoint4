@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ratchaburi_city">
+        <item name="Ratchaburi"></item>
+        <item name="ราชบุรี"></item>
+    </string-array>
+
+    <string-array name="bangkok_city">
+        <item name="Bangkok"></item>
+        <item name="กรุงเทพมหานคร"></item>
+    </string-array>
+
+    <string-array name="khonkaen_city">
+        <item name="Khonkaen"></item>
+        <item name="ขอนแก่น"></item>
+    </string-array>
+
+
+
+
+</resources>
