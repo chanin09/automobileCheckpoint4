@@ -38,7 +38,8 @@
             android:layout_below="@+id/imageView2"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="45dp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:backgroundTint="#6caad6" />
 
         <Button
             android:layout_width="match_parent"
@@ -58,6 +59,8 @@
             android:layout_below="@+id/btnDetail"
             android:layout_alignLeft="@+id/btnDetail"
             android:layout_alignStart="@+id/btnDetail"
-            android:id="@+id/btnAboutme" />
+            android:id="@+id/btnAboutme"
+            android:textStyle="bold"
+            android:backgroundTint="#6ca9d5" />
     </RelativeLayout>
 </LinearLayout>
