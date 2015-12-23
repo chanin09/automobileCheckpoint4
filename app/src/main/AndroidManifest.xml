@@ -19,7 +19,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/mystyle">
-        <activity android:name=".MyActivity">
+        <activity android:name=".FirstActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,6 +39,7 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCCCvt8_PuatCSUNIUKkn6Kz1T6F3uFD8M" />
 
+        <activity android:name=".MyActivity"></activity>
         <activity android:name=".ShowMapActivity"></activity>
     </application>
 

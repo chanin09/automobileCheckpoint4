@@ -21,26 +21,19 @@
         android:textStyle="bold"
         android:textColor="@color/c1" />
 
-    <ImageView
-        android:layout_width="@dimen/image"
-        android:layout_height="@dimen/image"
-        android:id="@+id/imageView"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
-        android:src="@drawable/logonofill" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/b4"
         android:id="@+id/btnRatchaburi"
-        android:layout_below="@+id/imageView"
         android:layout_alignParentLeft="false"
         android:layout_alignParentStart="true"
         android:layout_marginTop="45dp"
         android:height="60dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/textView" />
 
     <Button
         android:layout_width="match_parent"
