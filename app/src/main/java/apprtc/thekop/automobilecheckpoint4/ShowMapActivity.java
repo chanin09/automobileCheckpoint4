@@ -34,8 +34,8 @@ public class ShowMapActivity extends FragmentActivity {
 
 
         //Show Log
-        Log.d("ThreeCity", "Latitute ==> " + Double.toString(douLatitude));
-        Log.d("ThreeCity", "Longtitute ==> " + Double.toString(douLongtitude));
+        Log.d("@string/app_name", "Latitute ==> " + Double.toString(douLatitude));
+        Log.d("@string/app_name", "Longtitute ==> " + Double.toString(douLongtitude));
 
         //Setup Center of Map
         objLatLng = new LatLng(douLatitude, douLongtitude);
@@ -46,7 +46,8 @@ public class ShowMapActivity extends FragmentActivity {
         objGoogleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(objLatLng, 16));
 
         //Create marker for Center Map
-        objGoogleMap.addMarker(new MarkerOptions().position(objLatLng)
+        objGoogleMap.addMarker(new MarkerOptions()
+                .position(objLatLng)
                 .title(strTitle)
                 .snippet(strSnippet));
 

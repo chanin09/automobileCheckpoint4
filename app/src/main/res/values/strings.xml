@@ -1,13 +1,30 @@
 <resources>
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
-    <string name="h1">AutomobileCheckpoint</string>
+    <string name="h1">AUTOMOBILECHECKPOINT</string>
     <string name="b1">Where you go ?</string>
     <string name="b2">Automobile Detail</string>
     <string name="b3">About Me </string>
-    <string name="b4">Ratchaburi</string>
-    <string name="b5">Bangkok</string>
-    <string name="b6">Khonkaen</string>
-
+    <string name="b4">อู่สุชาญยนต์</string>
+    <string name="b5">อู่เดชา</string>
+    <string name="b6">อู่แบงค์ เซอร์วิส</string>
+    <string name="b7">อู่ศรีทอง ทอ่ไอเสีย</string>
+    <string name="b8">อู่ธนะโรจน์ การช่าง</string>
+    <string name="b9">อู่วิสุทธิ์เจริญการช่าง</string>
+    <string name="b10">อู่ราชบุรี ช่างยนต์</string>
+    <string name="b11">อู่สุวิทย์กลการ</string>
+    <string name="b12">อู่วิริยะยนต์</string>
+    <string name="b13">อู่ช่างต๋อง</string>
+    <string name="b14">อู่ธนัทแอร์รถยนต์</string>
+    <string name="b15">ศักดิ์เฮดเดอร์เทอร์โบ</string>
+    <string name="b16">อู่สมพงศ์ช่างยนต์</string>
+    <string name="b17">TP ออโต้เซอร์วิส</string>
+    <string name="b18">อู่สาครการช่าง</string>
+    <string name="b19">อู่ชัยเนตร</string>
+    <string name="b20">อู่ทิพย์เจริญเซ็นเตอร์เซอร์วิส</string>
+    <string name="b21">อู่ปัญญาออร์โต้เซอร์วิส</string>
+    <string name="b22">อู่เพชรเกษมออโต้เวย์ส</string>
+    <string name="b23">อู่สมเกียรติ ประดับยนต์</string>
+    <string name="b24">หน้าถัดไป</string>
 
 </resources>

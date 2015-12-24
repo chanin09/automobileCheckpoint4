@@ -6,7 +6,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/wall23"
+        android:background="@drawable/bg2"
         android:padding="15dp">
 
         <TextView
@@ -32,35 +32,39 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/b1"
-            android:id="@+id/btnWhere"
-            android:height="60dp"
-            android:layout_below="@+id/imageView2"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="45dp"
-            android:textStyle="bold"
-            android:backgroundTint="#6caad6" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
             android:text="@string/b2"
             android:id="@+id/btnDetail"
             android:height="60dp"
-            android:layout_below="@+id/btnWhere"
-            android:layout_centerHorizontal="true"
-            android:textStyle="bold" />
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_above="@+id/btnAboutme"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/b3"
-            android:height="60dp"
-            android:layout_below="@+id/btnDetail"
-            android:layout_alignLeft="@+id/btnDetail"
-            android:layout_alignStart="@+id/btnDetail"
             android:id="@+id/btnAboutme"
+            android:height="60dp"
+            android:textSize="16sp"
             android:textStyle="bold"
-            android:backgroundTint="#6ca9d5" />
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="34dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/b1"
+            android:id="@+id/btnWhere"
+            android:height="60dp"
+            android:layout_above="@+id/btnDetail"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="true"
+            android:textStyle="bold" />
+
     </RelativeLayout>
+
 </LinearLayout>

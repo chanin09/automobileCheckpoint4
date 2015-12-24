@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ratchaburi_city">
-        <item name="Ratchaburi"></item>
-        <item name="ราชบุรี"></item>
+    <string-array name="Suchan">
+        <item name="อู่สุชาญยนต์"></item>
+        <item name="อู่สุชาญยนต์"></item>
+
     </string-array>
 
-    <string-array name="bangkok_city">
-        <item name="Bangkok"></item>
-        <item name="กรุงเทพมหานคร"></item>
+    <string-array name="Decha">
+        <item name="อู่เดชา"></item>
+        <item name="อู่สุชาญยนต์"></item>
     </string-array>
 
-    <string-array name="khonkaen_city">
-        <item name="Khonkaen"></item>
-        <item name="ขอนแก่น"></item>
+    <string-array name="Bank">
+        <item name="อู่แบงค์เซอร์วิส"></item>
+        <item name="อู่สุชาญยนต์"></item>
     </string-array>
 
 

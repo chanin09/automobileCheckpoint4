@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity"
-    android:background="@drawable/wall23">
+    android:background="@drawable/bg2">
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,31 +25,209 @@
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button1"
         android:text="@string/b4"
-        android:id="@+id/btnRatchaburi"
-        android:layout_marginTop="20dp"
+        android:id="@+id/btnSu"
+        android:layout_marginTop="5dp"
         android:height="70dp"
         android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b5"
+        android:id="@+id/btnDe"
+        android:height="70dp"
+        android:layout_alignTop="@+id/btnSu"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b6"
+        android:id="@+id/btnBank"
+        android:height="70dp"
+        android:layout_below="@+id/btnSu"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b7"
+        android:id="@+id/btnSri"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnDe"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="false" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b8"
+        android:id="@+id/btnThana"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnBank"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button1"
-        android:text="@string/b5"
-        android:id="@+id/btnBangkok"
+        android:text="@string/b9"
+        android:id="@+id/btnWisut"
         android:height="70dp"
-        android:layout_alignTop="@+id/btnRatchaburi"
+        android:layout_alignTop="@+id/btnThana"
+        android:layout_alignLeft="@+id/btnSri"
+        android:layout_alignStart="@+id/btnSri"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b10"
+        android:id="@+id/btnRat"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnThana"
+        android:layout_alignLeft="@+id/btnThana"
+        android:layout_alignStart="@+id/btnThana" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b11"
+        android:id="@+id/btnSuwit"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/btnRat"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button1"
-        android:text="@string/b5"
-        android:id="@+id/btnKhonkaen"
+        android:text="@string/b12"
+        android:id="@+id/btnWiriya"
         android:height="70dp"
-        android:layout_below="@+id/btnRatchaburi"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp" />
+        android:textStyle="bold"
+        android:layout_below="@+id/btnRat"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b13"
+        android:id="@+id/btnTong"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnSuwit"
+        android:layout_alignLeft="@+id/btnSuwit"
+        android:layout_alignStart="@+id/btnSuwit" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b14"
+        android:id="@+id/btnThanut"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnWiriya"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b15"
+        android:id="@+id/btnSak"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnTong"
+        android:layout_alignLeft="@+id/btnTong"
+        android:layout_alignStart="@+id/btnTong" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b16"
+        android:id="@+id/btnSom"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnThanut"
+        android:layout_alignLeft="@+id/btnThanut"
+        android:layout_alignStart="@+id/btnThanut" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b18"
+        android:id="@+id/btnSakon"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnSom"
+        android:layout_alignLeft="@+id/btnSom"
+        android:layout_alignStart="@+id/btnSom" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b21"
+        android:id="@+id/btnPanya"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnSakon"
+        android:layout_alignLeft="@+id/btnSakon"
+        android:layout_alignStart="@+id/btnSakon" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b17"
+        android:id="@+id/btnTp"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_above="@+id/btnSakon"
+        android:layout_alignLeft="@+id/btnSak"
+        android:layout_alignStart="@+id/btnSak" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b20"
+        android:id="@+id/btnTip"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/btnSakon"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b23"
+        android:id="@+id/btnSomk"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/btnPanya"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b24"
+        android:id="@+id/btnNext"
+        android:height="70dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/btnPanya"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
