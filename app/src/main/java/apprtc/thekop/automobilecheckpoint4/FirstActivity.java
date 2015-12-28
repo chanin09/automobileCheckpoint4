@@ -25,24 +25,6 @@ public class FirstActivity extends Activity{
             }
         });
 
-        button = (Button) findViewById(R.id.btnDetail);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent j = new Intent(getApplicationContext(), MyActivity.class);
-                startActivity(j);
 
             }
-        });
-        button = (Button) findViewById(R.id.btnAboutme);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent k = new Intent(getApplicationContext(), MyActivity.class);
-                startActivity(k);
-            }
-        });
-
-
-    }
 }

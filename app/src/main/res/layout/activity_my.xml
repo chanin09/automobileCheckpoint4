@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/h1"
+        android:text="@string/b1"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -26,7 +26,6 @@
         android:layout_height="@dimen/button1"
         android:text="@string/b4"
         android:id="@+id/btnSu"
-        android:layout_marginTop="5dp"
         android:height="70dp"
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
@@ -140,8 +139,8 @@
         android:height="70dp"
         android:textStyle="bold"
         android:layout_below="@+id/btnWiriya"
-        android:layout_alignLeft="@+id/textView"
-        android:layout_alignStart="@+id/textView" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -225,7 +224,7 @@
         android:layout_height="@dimen/button1"
         android:text="@string/b24"
         android:id="@+id/btnNext"
-        android:height="70dp"
+        android:height="50dp"
         android:textStyle="bold"
         android:layout_below="@+id/btnPanya"
         android:layout_centerHorizontal="true" />

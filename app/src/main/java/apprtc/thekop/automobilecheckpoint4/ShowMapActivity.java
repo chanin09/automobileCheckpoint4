@@ -17,7 +17,7 @@ public class ShowMapActivity extends FragmentActivity {
     private Double douLatitude, douLongtitude;
     private GoogleMap objGoogleMap;
     private LatLng objLatLng;
-    private String strTitle, strSnippet;
+    private String strTitle,strSnippet;
 
 
 
@@ -32,10 +32,9 @@ public class ShowMapActivity extends FragmentActivity {
         strTitle = getIntent().getExtras().getString("Title");
         strSnippet = getIntent().getExtras().getString("Snippet");
 
-
         //Show Log
-        Log.d("@string/app_name", "Latitute ==> " + Double.toString(douLatitude));
-        Log.d("@string/app_name", "Longtitute ==> " + Double.toString(douLongtitude));
+        Log.d("@string/app_name", "Latitude ==> " + Double.toString(douLatitude));
+        Log.d("@string/app_name", "Longitude ==> " + Double.toString(douLongtitude));
 
         //Setup Center of Map
         objLatLng = new LatLng(douLatitude, douLongtitude);
@@ -49,7 +48,9 @@ public class ShowMapActivity extends FragmentActivity {
         objGoogleMap.addMarker(new MarkerOptions()
                 .position(objLatLng)
                 .title(strTitle)
-                .snippet(strSnippet));
+                .snippet(strSnippet)
+        );
+
 
     }//onCreate
-}//Mainclass
+}//Main class

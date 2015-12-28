@@ -63,7 +63,8 @@
             android:layout_above="@+id/btnDetail"
             android:layout_alignParentRight="false"
             android:layout_alignParentEnd="true"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:textSize="16dp" />
 
     </RelativeLayout>
 

@@ -2,13 +2,13 @@
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
     <string name="h1">AUTOMOBILECHECKPOINT</string>
-    <string name="b1">Where you go ?</string>
-    <string name="b2">Automobile Detail</string>
+    <string name="b1">Search Garage</string>
+    <string name="b2">Garage Detail</string>
     <string name="b3">About Me </string>
     <string name="b4">อู่สุชาญยนต์</string>
     <string name="b5">อู่เดชา</string>
     <string name="b6">อู่แบงค์ เซอร์วิส</string>
-    <string name="b7">อู่ศรีทอง ทอ่ไอเสีย</string>
+    <string name="b7">อู่ศรีทอง ท่อไอเสีย</string>
     <string name="b8">อู่ธนะโรจน์ การช่าง</string>
     <string name="b9">อู่วิสุทธิ์เจริญการช่าง</string>
     <string name="b10">อู่ราชบุรี ช่างยนต์</string>
@@ -21,10 +21,32 @@
     <string name="b17">TP ออโต้เซอร์วิส</string>
     <string name="b18">อู่สาครการช่าง</string>
     <string name="b19">อู่ชัยเนตร</string>
-    <string name="b20">อู่ทิพย์เจริญเซ็นเตอร์เซอร์วิส</string>
+    <string name="b20">อู่ทิพย์เจริญเซอร์วิส</string>
     <string name="b21">อู่ปัญญาออร์โต้เซอร์วิส</string>
     <string name="b22">อู่เพชรเกษมออโต้เวย์ส</string>
     <string name="b23">อู่สมเกียรติ ประดับยนต์</string>
     <string name="b24">หน้าถัดไป</string>
+    <string name="b25">ห้วยไผ่ยางยนต์</string>
+    <string name="b26">อู่ไฮเทคยนต์</string>
+    <string name="b27">ชัยเจริญเฮดเดอร์</string>
+    <string name="b28">อู่จริงการช่าง</string>
+    <string name="b29">อู่ยอดการยาง</string>
+    <string name="b30">ต.เจริญยนต์</string>
+    <string name="b31">บจก.จินดาการยาง</string>
+    <string name="b32">ไทร์พลัส </string>
+    <string name="b33">ส.สยามยนต์</string>
+    <string name="b34">อู่วิโรจน์ เซอร์วิส</string>
+    <string name="b35">อู่คีติการช่าง</string>
+    <string name="b36">อู่ช่างแก้ว</string>
+    <string name="b37">พุทธรักษาดีเซล</string>
+    <string name="b38">ส.โชคอุดม</string>
+    <string name="b39">เสา 5 คาร์แคร์</string>
+    <string name="b40">อู่พาณิชย์เจริญ</string>
+    <string name="b41">อู่ชมศักดิ์ช่างยนต์</string>
+    <string name="b42">อู่ธัญญะมอเตอร์เซอร์วิส</string>
+    <string name="b43">อู่ช่างน้อย</string>
+    <string name="b44">อู่ช่างเบี้ยว ไดนาโม</string>
+    <string name="b45"></string>
+
 
 </resources>
