@@ -18,28 +18,28 @@
             android:textStyle="bold"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:textColor="@color/c1" />
+            android:textColor="@color/c1"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/h2"
+            android:id="@+id/textView4"
+            android:textSize="@dimen/h1"
+            android:layout_below="@+id/textView2"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/c1"
+            android:textStyle="bold" />
 
         <ImageView
             android:layout_width="@dimen/image"
             android:layout_height="@dimen/image"
-            android:src="@drawable/logonofill"
+            android:src="@drawable/car"
             android:layout_below="@+id/textView2"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="60dp"
             android:id="@+id/imageView2" />
-
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/b2"
-            android:id="@+id/btnDetail"
-            android:height="60dp"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            android:layout_above="@+id/btnAboutme"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
 
         <Button
             android:layout_width="match_parent"
@@ -49,22 +49,21 @@
             android:height="60dp"
             android:textSize="16sp"
             android:textStyle="bold"
+            android:layout_marginBottom="52dp"
             android:layout_alignParentBottom="true"
             android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginBottom="34dp" />
+            android:layout_alignParentStart="true" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/b1"
-            android:id="@+id/btnWhere"
+            android:id="@+id/btnNext"
             android:height="60dp"
-            android:layout_above="@+id/btnDetail"
-            android:layout_alignParentRight="false"
-            android:layout_alignParentEnd="true"
             android:textStyle="bold"
-            android:textSize="16dp" />
+            android:textSize="16dp"
+            android:layout_above="@+id/btnAboutme"
+            android:layout_centerHorizontal="true" />
 
     </RelativeLayout>
 
