@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity7t"
-    android:background="@drawable/bg2">
+    android:background="@drawable/road3">
 
     <TextView
         android:layout_width="wrap_content"
@@ -27,7 +27,7 @@
         android:text="@string/b68"
         android:id="@+id/button69"
         android:textStyle="bold"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_below="@+id/textView9"
         android:layout_alignLeft="@+id/button72"
         android:layout_alignStart="@+id/button72" />
@@ -83,12 +83,4 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/button3"
-        android:text="@string/b22"
-        android:id="@+id/button76"
-        android:textStyle="bold"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
 </RelativeLayout>

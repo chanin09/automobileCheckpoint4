@@ -1,11 +1,12 @@
 <resources>
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
-    <string name="h1">AUTOMOBILECHECKPOINT</string>
+    <string name="h1">AUTOMOBILE CHECKPOINT</string>
     <string name="h2">IN RATCHABURI</string>
-    <string name="c1">Search Amphor</string>
+    <string name="c1">Search District</string>
     <string name="c2">All Garage</string>
-    <string name="c3">Search Tambon</string>
+    <string name="c3">Search Subdistrict</string>
+    <string name="c4">Search Garage</string>
 
     <string name="bb1">เมือง</string>
     <string name="bb2">ดำเนินสะดวก</string>
@@ -104,7 +105,7 @@
     <string name="b78">ทุ่งหลวง</string>
     <string name="b79">วังมะนาว</string>
     <string name="b80">ดอนทราย</string>
-    <string name="b81">หนอกระทุ่ม</string>
+    <string name="b81">หนองกระทุ่ม</string>
     <string name="b82">ปากท่อ</string>
     <string name="b83">ป่าไก่</string>
     <string name="b84">วัดยางงาม</string>
@@ -131,6 +132,14 @@
     <string name="b103">หนองพันจันทร์</string>
 
     <string name="b104">ดอนกรวย</string>
+
+    <string name="b105">ราชบุรีช่างยนต์</string>
+    <string name="b106">ศรีทอง ท่อไอเสีย</string>
+    <string name="b107">สุวิทย์กลการ</string>
+    <string name="b108">วิสุทธิเจริญ การช่าง</string>
+    <string name="b109">อู่ชัยเนตร</string>
+    <string name="b110">ทิพย์เจริญเซอร์วิส</string>
+    <string name="b111">อู่ราชบุรี ช่างยนต์</string>
 
 
 </resources>

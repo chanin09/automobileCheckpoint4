@@ -14,7 +14,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class ShowMapActivity extends FragmentActivity {
     //Declaring Variable
-    private Double douLatitude, douLongtitude;
+    private double douLatitude, douLongtitude;
     private GoogleMap objGoogleMap;
     private LatLng objLatLng;
     private String strTitle,strSnippet;
@@ -42,7 +42,7 @@ public class ShowMapActivity extends FragmentActivity {
         //Create Google map
         objGoogleMap =((SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map)).getMap();
-        objGoogleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(objLatLng, 16));
+        objGoogleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(objLatLng,16));
 
         //Create marker for Center Map
         objGoogleMap.addMarker(new MarkerOptions()

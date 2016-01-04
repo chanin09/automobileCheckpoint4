@@ -36,7 +36,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnPak.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity9t.class);
                 startActivity(i);
             }
         });
@@ -45,7 +45,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnBan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity6t.class);
                 startActivity(i);
             }
         });
@@ -54,7 +54,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnbang.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity10t.class);
                 startActivity(i);
             }
         });
@@ -63,7 +63,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnking.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity12t.class);
                 startActivity(i);
             }
         });
@@ -72,7 +72,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnjom.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity7t.class);
                 startActivity(i);
             }
         });
@@ -81,7 +81,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnWad.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity11t.class);
                 startActivity(i);
             }
         });
@@ -99,7 +99,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnSuan.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity8t.class);
                 startActivity(i);
             }
         });
@@ -108,7 +108,7 @@ public class MyActivity2 extends AppCompatActivity {
         btnPho.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), MyActivity3.class);
+                Intent i = new Intent(getApplicationContext(), MyActivity5t.class);
                 startActivity(i);
             }
         });

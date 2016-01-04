@@ -7,14 +7,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity8t"
+    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity13m"
     android:background="@drawable/road3">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/c3"
-        android:id="@+id/textView10"
+        android:text="@string/c4"
+        android:id="@+id/textView15"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:textSize="@dimen/h1"
@@ -24,43 +24,42 @@
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b74"
-        android:id="@+id/button78"
+        android:text="@string/b105"
+        android:id="@+id/btnrat"
         android:textStyle="bold"
-        android:layout_below="@+id/textView10"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp" />
+        android:layout_below="@+id/textView15"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="5dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b75"
-        android:id="@+id/button79"
+        android:text="@string/b106"
+        android:id="@+id/btnsri"
         android:textStyle="bold"
-        android:layout_marginTop="48dp"
-        android:layout_below="@+id/button78"
-        android:layout_alignLeft="@+id/button78"
-        android:layout_alignStart="@+id/button78" />
+        android:layout_alignTop="@+id/btnrat"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b76"
-        android:id="@+id/button80"
+        android:text="@string/b107"
+        android:id="@+id/btnsuwit"
         android:textStyle="bold"
-        android:layout_below="@+id/button79"
-        android:layout_alignLeft="@+id/button79"
-        android:layout_alignStart="@+id/button79"
-        android:layout_marginTop="48dp" />
+        android:layout_below="@+id/btnrat"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b77"
-        android:id="@+id/button81"
+        android:text="@string/b108"
+        android:id="@+id/btnwisut"
         android:textStyle="bold"
-        android:layout_marginTop="48dp"
-        android:layout_below="@+id/button80"
-        android:layout_alignLeft="@+id/button80"
-        android:layout_alignStart="@+id/button80" />
+        android:layout_below="@+id/btnsri"
+        android:layout_alignLeft="@+id/btnsri"
+        android:layout_alignStart="@+id/btnsri" />
+
 </RelativeLayout>

@@ -7,14 +7,14 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity4t"
+    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity9t"
     android:background="@drawable/road3">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/c3"
-        android:id="@+id/textView7"
+        android:id="@+id/textView11"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:textSize="@dimen/h1"
@@ -24,10 +24,10 @@
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b23"
-        android:id="@+id/button21"
+        android:text="@string/b78"
+        android:id="@+id/button82"
         android:textStyle="bold"
-        android:layout_below="@+id/textView7"
+        android:layout_below="@+id/textView11"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginTop="20dp" />
@@ -35,126 +35,116 @@
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b24"
-        android:id="@+id/button22"
+        android:text="@string/b79"
+        android:id="@+id/button83"
         android:textStyle="bold"
-        android:layout_alignTop="@+id/button21"
+        android:layout_alignTop="@+id/button82"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b25"
-        android:id="@+id/button23"
+        android:text="@string/b80"
+        android:id="@+id/button84"
         android:textStyle="bold"
-        android:layout_below="@+id/button21"
+        android:layout_below="@+id/button82"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="25dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b26"
-        android:id="@+id/button24"
+        android:text="@string/b81"
+        android:id="@+id/button85"
         android:textStyle="bold"
-        android:layout_alignTop="@+id/button23"
-        android:layout_alignLeft="@+id/button22"
-        android:layout_alignStart="@+id/button22" />
+        android:layout_alignTop="@+id/button84"
+        android:layout_alignLeft="@+id/button83"
+        android:layout_alignStart="@+id/button83" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b27"
-        android:id="@+id/button25"
+        android:text="@string/b82"
+        android:id="@+id/button86"
         android:textStyle="bold"
-        android:layout_below="@+id/button23"
+        android:layout_below="@+id/button84"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="25dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b28"
-        android:id="@+id/button26"
+        android:text="@string/b83"
+        android:id="@+id/button87"
         android:textStyle="bold"
-        android:layout_alignTop="@+id/button25"
-        android:layout_alignLeft="@+id/button22"
-        android:layout_alignStart="@+id/button22" />
+        android:layout_alignTop="@+id/button86"
+        android:layout_alignLeft="@+id/button89"
+        android:layout_alignStart="@+id/button89" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b29"
-        android:id="@+id/button27"
+        android:text="@string/b84"
+        android:id="@+id/button88"
         android:textStyle="bold"
-        android:layout_below="@+id/button25"
+        android:layout_below="@+id/button86"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="25dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b30"
-        android:id="@+id/button28"
+        android:text="@string/b85"
+        android:id="@+id/button89"
         android:textStyle="bold"
-        android:layout_alignTop="@+id/button27"
-        android:layout_alignLeft="@+id/button26"
-        android:layout_alignStart="@+id/button26" />
+        android:layout_alignTop="@+id/button88"
+        android:layout_alignLeft="@+id/button85"
+        android:layout_alignStart="@+id/button85" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b31"
-        android:id="@+id/button29"
+        android:text="@string/b86"
+        android:id="@+id/button90"
         android:textStyle="bold"
-        android:layout_below="@+id/button27"
+        android:layout_below="@+id/button88"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="26dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b32"
-        android:id="@+id/button30"
+        android:text="@string/b87"
+        android:id="@+id/button91"
         android:textStyle="bold"
-        android:layout_above="@+id/button32"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignTop="@+id/button90"
+        android:layout_alignLeft="@+id/button89"
+        android:layout_alignStart="@+id/button89" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b33"
-        android:id="@+id/button32"
+        android:text="@string/b88"
+        android:id="@+id/button92"
         android:textStyle="bold"
-        android:layout_below="@+id/button29"
+        android:layout_below="@+id/button90"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="15dp" />
+        android:layout_marginTop="25dp" />
 
     <Button
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
-        android:text="@string/b34"
-        android:id="@+id/button33"
+        android:text="@string/b89"
+        android:id="@+id/button93"
         android:textStyle="bold"
-        android:layout_above="@+id/button34"
-        android:layout_alignLeft="@+id/button30"
-        android:layout_alignStart="@+id/button30" />
-
-    <Button
-        android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
-        android:text="@string/b104"
-        android:id="@+id/button34"
-        android:textStyle="bold"
-        android:layout_below="@+id/button32"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp" />
+        android:layout_alignTop="@+id/button92"
+        android:layout_alignLeft="@+id/button91"
+        android:layout_alignStart="@+id/button91" />
 
 </RelativeLayout>

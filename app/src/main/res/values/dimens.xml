@@ -5,7 +5,9 @@
     <dimen name="h1">27dp</dimen>
     <dimen name="image">230dp</dimen>
     <dimen name="b1">25dp</dimen>
-    <dimen name="button1">65dp</dimen>
-    <dimen name="button2">170dp</dimen>
+    <dimen name="b2">20dp</dimen>
+    <dimen name="button1">60dp</dimen>
+    <dimen name="button2">155dp</dimen>
     <dimen name="button3">50dp</dimen>
+    <dimen name="button4">165dp</dimen>
 </resources>

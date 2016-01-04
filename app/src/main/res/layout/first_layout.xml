@@ -6,7 +6,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/bg2"
+        android:background="@drawable/road3"
         android:padding="15dp">
 
         <TextView
@@ -18,7 +18,7 @@
             android:textStyle="bold"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:textColor="@color/c1"
+            android:textColor="#f70303"
             android:layout_marginTop="5dp" />
 
         <TextView
@@ -29,7 +29,7 @@
             android:textSize="@dimen/h1"
             android:layout_below="@+id/textView2"
             android:layout_centerHorizontal="true"
-            android:textColor="@color/c1"
+            android:textColor="#fb0505"
             android:textStyle="bold" />
 
         <ImageView
