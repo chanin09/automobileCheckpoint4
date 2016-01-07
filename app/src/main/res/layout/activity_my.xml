@@ -10,26 +10,16 @@
     tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity"
     android:background="@drawable/road3">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/b1"
-        android:id="@+id/textView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:textSize="@dimen/h1"
-        android:textStyle="bold"
-        android:textColor="@color/c1" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="@dimen/button1"
         android:text="@string/c1"
         android:id="@+id/btnAmphor"
-        android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="145dp"
-        android:textStyle="bold" />
+        android:layout_marginTop="220dp"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b2" />
 
     <Button
         android:layout_width="match_parent"
@@ -40,6 +30,8 @@
         android:layout_below="@+id/btnAmphor"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="40dp"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b2" />
 
 </RelativeLayout>

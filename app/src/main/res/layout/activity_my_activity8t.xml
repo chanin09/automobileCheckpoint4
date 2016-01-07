@@ -23,44 +23,48 @@
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b74"
         android:id="@+id/button78"
         android:textStyle="bold"
         android:layout_below="@+id/textView10"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="60dp" />
+        android:layout_marginTop="60dp"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b75"
         android:id="@+id/button79"
         android:textStyle="bold"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="60dp"
         android:layout_below="@+id/button78"
         android:layout_alignLeft="@+id/button78"
-        android:layout_alignStart="@+id/button78" />
+        android:layout_alignStart="@+id/button78"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b76"
         android:id="@+id/button80"
         android:textStyle="bold"
         android:layout_below="@+id/button79"
         android:layout_alignLeft="@+id/button79"
         android:layout_alignStart="@+id/button79"
-        android:layout_marginTop="48dp" />
+        android:layout_marginTop="60dp"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b77"
         android:id="@+id/button81"
         android:textStyle="bold"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="60dp"
         android:layout_below="@+id/button80"
         android:layout_alignLeft="@+id/button80"
-        android:layout_alignStart="@+id/button80" />
+        android:layout_alignStart="@+id/button80"
+        android:background="#b4ffffff" />
 </RelativeLayout>

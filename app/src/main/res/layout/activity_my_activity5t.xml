@@ -30,7 +30,8 @@
         android:layout_below="@+id/textView6"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="10dp"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -40,7 +41,8 @@
         android:textStyle="bold"
         android:layout_alignTop="@+id/button20"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -50,7 +52,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button20"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -58,6 +62,7 @@
         android:text="@string/b38"
         android:id="@+id/button38"
         android:textStyle="bold"
+        android:background="#b4ffffff"
         android:layout_alignTop="@+id/button37"
         android:layout_alignLeft="@+id/button36"
         android:layout_alignStart="@+id/button36" />
@@ -70,7 +75,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button37"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -80,7 +87,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button38"
         android:layout_alignLeft="@+id/button38"
-        android:layout_alignStart="@+id/button38" />
+        android:layout_alignStart="@+id/button38"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -90,7 +99,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button39"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -98,6 +109,7 @@
         android:text="@string/b42"
         android:id="@+id/button42"
         android:textStyle="bold"
+        android:background="#b4ffffff"
         android:layout_alignTop="@+id/button41"
         android:layout_alignLeft="@+id/button40"
         android:layout_alignStart="@+id/button40" />
@@ -110,7 +122,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button41"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -118,7 +132,8 @@
         android:text="@string/b44"
         android:id="@+id/button44"
         android:textStyle="bold"
-        android:layout_above="@+id/button46"
+        android:background="#b4ffffff"
+        android:layout_alignTop="@+id/button43"
         android:layout_alignLeft="@+id/button42"
         android:layout_alignStart="@+id/button42" />
 
@@ -130,7 +145,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button43"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -138,6 +155,7 @@
         android:text="@string/b46"
         android:id="@+id/button46"
         android:textStyle="bold"
+        android:background="#b4ffffff"
         android:layout_alignTop="@+id/button45"
         android:layout_alignLeft="@+id/button44"
         android:layout_alignStart="@+id/button44" />
@@ -150,7 +168,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button45"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -158,6 +178,7 @@
         android:text="@string/b48"
         android:id="@+id/button48"
         android:textStyle="bold"
+        android:background="#b4ffffff"
         android:layout_alignTop="@+id/button47"
         android:layout_alignLeft="@+id/button46"
         android:layout_alignStart="@+id/button46" />
@@ -170,7 +191,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button47"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -180,17 +203,9 @@
         android:textStyle="bold"
         android:layout_below="@+id/button48"
         android:layout_alignLeft="@+id/button48"
-        android:layout_alignStart="@+id/button48" />
-
-    <Button
-        android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
-        android:text="@string/b4"
-        android:id="@+id/button51"
-        android:textStyle="bold"
-        android:layout_below="@+id/button49"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignStart="@+id/button48"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -198,9 +213,11 @@
         android:text="@string/b52"
         android:id="@+id/button52"
         android:textStyle="bold"
-        android:layout_alignTop="@+id/button51"
         android:layout_alignLeft="@+id/button50"
-        android:layout_alignStart="@+id/button50" />
+        android:layout_alignStart="@+id/button50"
+        android:layout_below="@+id/button49"
+        android:background="#b4ffffff"
+        android:layout_marginTop="8dp" />
 
     <Button
         android:layout_width="@dimen/button2"
@@ -208,8 +225,10 @@
         android:text="@string/b51"
         android:id="@+id/button53"
         android:textStyle="bold"
+        android:background="#b4ffffff"
         android:layout_below="@+id/button49"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="8dp" />
 
 </RelativeLayout>

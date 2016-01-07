@@ -23,33 +23,36 @@
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b98"
         android:id="@+id/button14"
         android:textStyle="bold"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="110dp"
         android:layout_below="@+id/textView13"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b99"
         android:id="@+id/button31"
         android:textStyle="bold"
         android:layout_marginTop="65dp"
         android:layout_below="@+id/button14"
         android:layout_alignLeft="@+id/button14"
-        android:layout_alignStart="@+id/button14" />
+        android:layout_alignStart="@+id/button14"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b100"
         android:id="@+id/button54"
         android:textStyle="bold"
         android:layout_marginTop="65dp"
         android:layout_below="@+id/button31"
         android:layout_alignLeft="@+id/button31"
-        android:layout_alignStart="@+id/button31" />
+        android:layout_alignStart="@+id/button31"
+        android:background="#b4ffffff" />
 </RelativeLayout>

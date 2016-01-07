@@ -2,11 +2,12 @@
     <string name="app_name">AutomobileCheckpoint4</string>
     <string name="title_activity_maps">Map</string>
     <string name="h1">AUTOMOBILE CHECKPOINT</string>
-    <string name="h2">IN RATCHABURI</string>
-    <string name="c1">Search District</string>
-    <string name="c2">All Garage</string>
-    <string name="c3">Search Subdistrict</string>
-    <string name="c4">Search Garage</string>
+    <string name="h2">IN </string>
+    <string name="h3">RATCHABURI</string>
+    <string name="c1">ค้นหาอำเภอ</string>
+    <string name="c2">อู่ซ่อมรถยนต์ทั้งหมด</string>
+    <string name="c3">ค้นหาตำบล</string>
+    <string name="c4">ค้นหาอู่ซ่อมรถยนต์</string>
 
     <string name="bb1">เมือง</string>
     <string name="bb2">ดำเนินสะดวก</string>
@@ -18,9 +19,9 @@
     <string name="bb8">บางแพ</string>
     <string name="bb9">วัดเพลง</string>
     <string name="bb10">กิ่งอำเภอบ้านคา</string>
-    <string name="b1">Search Garage</string>
-    <string name="b2">Garage Detail</string>
-    <string name="b3">About Me </string>
+    <string name="b1">ค้นหาอู่ซ่อมรถยนต์</string>
+
+    <string name="b3">เกี่ยวกับเรา</string>
     <string name="b4">หน้าเมือง</string>
     <string name="b5">เจดีย์หัก</string>
     <string name="b6">ดอนตะโก</string>

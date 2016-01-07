@@ -24,7 +24,8 @@
             android:layout_centerHorizontal="true"
             android:textSize="@dimen/h1"
             android:textStyle="bold"
-            android:textColor="@color/c1" />
+            android:textColor="@color/c1"
+            android:layout_marginTop="5dp" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -35,9 +36,10 @@
             android:layout_below="@+id/textView3"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="35dp"
             android:textSize="@dimen/b2"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -45,12 +47,13 @@
             android:layout_height="@dimen/button1"
             android:text="@string/bb7"
             android:id="@+id/btnPak"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="40dp"
             android:layout_below="@+id/btnJom"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:textStyle="bold"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -62,21 +65,23 @@
             android:layout_below="@+id/btnPho"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="40dp"
             android:textStyle="bold"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
-            android:layout_width="@dimen/button4"
+            android:layout_width="@dimen/button2"
             android:layout_height="@dimen/button1"
             android:text="@string/bb3"
             android:id="@+id/btnPho"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="40dp"
             android:layout_below="@+id/btnMueg"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:textStyle="bold"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -87,9 +92,10 @@
             android:layout_below="@+id/btnPak"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
-            android:layout_marginTop="25dp"
+            android:layout_marginTop="40dp"
             android:textStyle="bold"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -101,7 +107,8 @@
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
             android:textStyle="bold"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -113,7 +120,8 @@
             android:layout_above="@+id/btnJom"
             android:layout_alignLeft="@+id/btndum"
             android:layout_alignStart="@+id/btndum"
-            android:textSize="@dimen/b2" />
+            android:textSize="@dimen/b2"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -126,7 +134,8 @@
             android:layout_alignLeft="@+id/btnBan"
             android:layout_alignStart="@+id/btnBan"
             android:textSize="@dimen/b2"
-            android:layout_marginTop="25dp" />
+            android:layout_marginTop="25dp"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -138,7 +147,8 @@
             android:textSize="@dimen/b2"
             android:layout_alignTop="@+id/btnWad"
             android:layout_alignLeft="@+id/btnking"
-            android:layout_alignStart="@+id/btnking" />
+            android:layout_alignStart="@+id/btnking"
+            android:background="#b4ffffff" />
 
         <Button
             style="?android:attr/buttonStyleSmall"
@@ -150,7 +160,8 @@
             android:textSize="@dimen/b2"
             android:layout_alignTop="@+id/btnPak"
             android:layout_alignLeft="@+id/btnSuan"
-            android:layout_alignStart="@+id/btnSuan" />
+            android:layout_alignStart="@+id/btnSuan"
+            android:background="#b4ffffff" />
 
     </RelativeLayout>
 </LinearLayout>

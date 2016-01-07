@@ -23,32 +23,35 @@
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b102"
         android:id="@+id/button70"
         android:textStyle="bold"
         android:layout_marginTop="60dp"
         android:layout_below="@+id/button76"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b101"
         android:id="@+id/button76"
         android:textStyle="bold"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="110dp"
         android:layout_below="@+id/textView14"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="#b4ffffff" />
 
     <Button
         android:layout_width="@dimen/button2"
-        android:layout_height="@dimen/button3"
+        android:layout_height="@dimen/button1"
         android:text="@string/b103"
         android:id="@+id/button77"
         android:textStyle="bold"
         android:layout_marginTop="60dp"
         android:layout_below="@+id/button70"
         android:layout_alignLeft="@+id/button70"
-        android:layout_alignStart="@+id/button70" />
+        android:layout_alignStart="@+id/button70"
+        android:background="#b4ffffff" />
 </RelativeLayout>

@@ -42,22 +42,22 @@ public class MyActivity13m extends AppCompatActivity implements View.OnClickList
             case R.id.btnrat:
                 douLatitude = 13.533244;
                 douLongtitude = 99.806202;
-                strNameCity = getResources().getStringArray(R.array.Suchan);
+                strNameCity = getResources().getStringArray(R.array.Suchan_city);
                 break;
             case R.id.btnsri:
                 douLatitude = 13.527383;
                 douLongtitude = 99.796013;
-                strNameCity = getResources().getStringArray(R.array.Suchan);
+                strNameCity = getResources().getStringArray(R.array.Suchan_city);
                 break;
             case R.id.btnsuwit:
                 douLatitude = 13.550281;
                 douLongtitude = 99.816687;
-                strNameCity = getResources().getStringArray(R.array.Suchan);
+                strNameCity = getResources().getStringArray(R.array.Suchan_city);
                 break;
             case R.id.btnwisut:
                 douLatitude = 13.531352;
                 douLongtitude = 99.803826;
-                strNameCity = getResources().getStringArray(R.array.Suchan);
+                strNameCity = getResources().getStringArray(R.array.Suchan_city);
                 break;
             default:
                 break;
@@ -70,6 +70,6 @@ public class MyActivity13m extends AppCompatActivity implements View.OnClickList
         objIntent.putExtra("Snippet", strNameCity[1]);
         startActivity(objIntent);
 
-        Log.d("@string/app name", "Lat==" + Double.toString(douLatitude));
+        Log.d("AutomobileCheckpoint4", "Lat == " + Double.toString(douLatitude));
     }
 }//main Class

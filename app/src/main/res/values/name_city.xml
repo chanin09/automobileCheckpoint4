@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="Suchan">
+    <string-array name="Suchan_city">
         <item name="อู่สุชาญยนต์"></item>
-        <item name="อู่สุชาญยนต์"></item>
+        <item name="เบอร์"></item>
 
     </string-array>
 

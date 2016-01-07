@@ -33,14 +33,14 @@ public class ShowMapActivity extends FragmentActivity {
         strSnippet = getIntent().getExtras().getString("Snippet");
 
         //Show Log
-        Log.d("@string/app_name", "Latitude ==> " + Double.toString(douLatitude));
-        Log.d("@string/app_name", "Longitude ==> " + Double.toString(douLongtitude));
+        Log.d("AutomobileCheckpoint4", "Latitude ==> " + Double.toString(douLatitude));
+        Log.d("AutomobileCheckpoint4", "Longitude ==> " + Double.toString(douLongtitude));
 
         //Setup Center of Map
         objLatLng = new LatLng(douLatitude, douLongtitude);
 
         //Create Google map
-        objGoogleMap =((SupportMapFragment) getSupportFragmentManager()
+        objGoogleMap = ((SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map)).getMap();
         objGoogleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(objLatLng,16));
 
