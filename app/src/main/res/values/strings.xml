@@ -133,14 +133,44 @@
     <string name="b103">หนองพันจันทร์</string>
 
     <string name="b104">ดอนกรวย</string>
+    //ตำบลหน้าเมือง
+    <string name="b105">อู่ราชบุรี ช่างยนต์\n032-324750</string>
+    <string name="b106">อู่ศรีทอง ท่อไอเสีย\n032-319430 </string>
+    <string name="b107">ยางดีศูนย์ล้อดี\n081-5733877 </string>
+    <string name="b108">อู่วิสุทธิเจริญ การช่าง \n085-1810798</string>
+    <string name="b109">อู่ชัยเนตรคาร์แคร์ \n083-3115533</string>
+    <string name="b110">อู่เอส.ดี ออโต้แคร์\n089-0075009</string>
+    <string name="b111">อู่ท่าเสา \n032-312258</string>
+    <string name="b112">อู่ไทร์พลัส\n081-5525350</string>
+    <string name="b113">อู่ใหญ่ไพศาล \n032-325345</string>
+    <string name="b114">อู่สมเกียรติ ประดับยนต์\n089-2419054</string>
+    <string name="b115">อู่แบงค์ คาร์เซอร์วิส\n081-5555777</string>
+    <string name="b116">อู่พรทีวีเจริญยนต์\n083-2315063</string>
+    <string name="b117">อู่สมพงศ์ช่างยนต์\n032-312995</string>
+    <string name="b118">อู่ราชบุรีการาจ EMCS\n032-325015</string>
+    <string name="b119">อู่ศรีพิชัยบริการ \n032-338810</string>
+    <string name="b120">บจก.จินดาการยาง\n032-332444-9 </string>
 
-    <string name="b105">ราชบุรีช่างยนต์</string>
-    <string name="b106">ศรีทอง ท่อไอเสีย</string>
-    <string name="b107">สุวิทย์กลการ</string>
-    <string name="b108">วิสุทธิเจริญ การช่าง</string>
-    <string name="b109">อู่ชัยเนตร</string>
-    <string name="b110">ทิพย์เจริญเซอร์วิส</string>
-    <string name="b111">อู่ราชบุรี ช่างยนต์</string>
 
-
+    //เจดีย์หัก
+    <string name="b121">อู่บวรพัฒน์ยางยนต์\n083-3134488</string>
+    <string name="b122">อู่สุนทรดีเซล\n081-7638503</string>
+    <string name="b123">อู่ชมศักดิ์ช่างยนต์ \n01-6289656</string>
+    <string name="b124">อู่สุชาญยนต์ \n032-323341</string>
+    <string name="b125">ทีพี ออโต้เซอร์วิส\n088-2388072</string>
+    <string name="b126">อู่ศักดิ์เฮดเดอร์เทอร์โบ \n089-9926471</string>
+    <string name="b127">อู่ธีรยุทธการช่าง \n032-008361</string>
+    <string name="b128">อู่บุญยงค์พาณิชย์\n032-337419</string>
+    <string name="b129">อู่ห้วยไผ่ยางยนต์ \n089-4119475</string>
+    <string name="b130">อู่บัญชา ออโต้เซอร์วิส\n083-6183372</string>
+    <string name="b131">อู่พุทธรักษาดีเซล\n032-337440 </string>
+    <string name="b132">อู่เพชรเกษม ออโต้เวย์ส\n032-338578</string>
+    // ดอนตะโก
+    <string name="b133">อู่เสา 5 คาร์แคร์ \n083-1554657</string>
+    <string name="b134">อู่ช่างชัยบริการ \n0813784461</string>
+    <string name="b135">อู่โอภาสดีเซล \n080-05307731</string>
+    <string name="b136">อู่PTเซอร์วิส \n085-5616213</string>
+    <string name="b137">อู่ธนะโรจน์การช่าง\n087-1582261</string>
+    <string name="b138">อู่ธนัทแอร์รถยนต์ \n090-6155115</string>
+    <string name="b139">อู่ช่างต๋อง \n081-7415909</string>
 </resources>

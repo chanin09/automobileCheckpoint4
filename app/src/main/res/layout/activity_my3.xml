@@ -37,7 +37,7 @@
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
         android:text="@string/b5"
-        android:id="@+id/button2"
+        android:id="@+id/btnjd"
         android:textStyle="bold"
         android:layout_alignTop="@+id/btnna"
         android:layout_alignParentRight="true"
@@ -84,7 +84,7 @@
         android:layout_width="@dimen/button2"
         android:layout_height="@dimen/button3"
         android:text="@string/b6"
-        android:id="@+id/button6"
+        android:id="@+id/btndon"
         android:textStyle="bold"
         android:layout_below="@+id/btnna"
         android:layout_alignParentLeft="true"
@@ -99,7 +99,7 @@
         android:id="@+id/button7"
         android:textStyle="bold"
         android:background="#b4ffffff"
-        android:layout_alignTop="@+id/button6"
+        android:layout_alignTop="@+id/btndon"
         android:layout_alignLeft="@+id/button5"
         android:layout_alignStart="@+id/button5" />
 
