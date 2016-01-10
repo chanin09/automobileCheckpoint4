@@ -173,4 +173,27 @@
     <string name="b137">อู่ธนะโรจน์การช่าง\n087-1582261</string>
     <string name="b138">อู่ธนัทแอร์รถยนต์ \n090-6155115</string>
     <string name="b139">อู่ช่างต๋อง \n081-7415909</string>
+    //พงสวาย
+    <string name="b140">อู่ริมธีระกุล การช่าง</string>
+    <string name="b141">อู่ไพศาล อินเตอร์ เซอร์วิส\n085-2635511</string>
+    //ห้วยไผ่
+    <string name="b142">อู่ประทีปการช่าง</string>
+    <string name="b143">อู่ช่างเบี้ยวการช่าง \n087-1659096</string>
+    //คุ้งกระถิน
+    <string name="b144">ตั้งศูนย์ถ่วงล้อ</string>
+    //อ่างทอง
+    <string name="b145">อู่ป.สุวรรณ์ เซอร์วิส \n089-6128725</string>
+    <string name="b146">อู่บ้านใหญ่ช่างยนต์</string>
+    //โคกหม้อ
+    <string name="b147">อู่ชัยยุทธ\n032-321260</string>
+    <string name="b148">อู่ต.เจริญยนต์  \n032-321930</string>
+    <string name="b149">อู่ช่างแก้ว \n088-8603485</string>
+    <string name="b150">อู่สินชัย\n032-737026</string>
+    <string name="b151">อู่จริงการช่าง\n032-317182</string>
+    <string name="b152">อู่ยอดการยาง \n086-0693193</string>
+    <string name="b153">อู่พิชิตยนต์\n032-316415</string>
+    <string name="b154">อู่ส.ช่างยนต์</string>
+    <string name="b155">อู่ชัยเจริญเฮดเดอร์</string>
+//สามเรือน
+    <string name="b156">อู่ช่างเสริมเซอร์วิส 089-7948417</string>
 </resources>

@@ -55,7 +55,7 @@ public class MyActivity14m extends AppCompatActivity implements View.OnClickList
         switch (v.getId()){
             case R.id.btnbawon:
                 douLatitude = 13.547955;
-                douLongtitude=99.807757;
+                douLongtitude = 99.807757;
                 strNameCity = getResources().getStringArray(R.array.Decha);
                 break;
             case R.id.btnsunton:
@@ -116,8 +116,6 @@ public class MyActivity14m extends AppCompatActivity implements View.OnClickList
             default:
                 break;
         }
-
-
         // Intent & Put Value to ShowMapActivity
         Intent objIntent = new Intent(MyActivity14m.this, ShowMapActivity.class);
         objIntent.putExtra("Latitude",douLatitude);

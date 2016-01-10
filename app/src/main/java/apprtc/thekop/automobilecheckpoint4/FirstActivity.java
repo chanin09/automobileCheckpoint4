@@ -20,7 +20,7 @@ public class FirstActivity extends AppCompatActivity{
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(),MyActivity.class);
+                Intent i = new Intent(getApplicationContext(),MyActivity2.class);
                 startActivity(i);
             }
         });

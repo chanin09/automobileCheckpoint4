@@ -58,7 +58,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/b1"
+            android:text="@string/c1"
             android:id="@+id/btnNext"
             android:height="60dp"
             android:textStyle="bold"

@@ -56,7 +56,14 @@
         <activity android:name=".MyActivity12t" />
         <activity android:name=".MyActivity13m" />
         <activity android:name=".MyActivity14m" />
-        <activity android:name=".MyActivity15m"></activity>
+        <activity android:name=".MyActivity15m" />
+        <activity android:name=".MyActivity16m" />
+        <activity android:name=".MyActivity17m" />
+        <activity android:name=".MyActivity18m" />
+        <activity android:name=".MyActivity19m" />
+        <activity android:name=".Mya" />
+        <activity android:name=".MyActivity20m" />
+        <activity android:name=".MyActivity21m"></activity>
     </application>
 
 </manifest>
