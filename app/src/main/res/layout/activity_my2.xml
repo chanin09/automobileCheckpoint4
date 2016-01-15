@@ -102,7 +102,7 @@
             android:layout_width="@dimen/button2"
             android:layout_height="@dimen/button1"
             android:text="@string/bb2"
-            android:id="@+id/btndum"
+            android:id="@+id/btndomneun"
             android:layout_alignTop="@+id/btnMueg"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
@@ -118,8 +118,8 @@
             android:id="@+id/btnBan"
             android:textStyle="bold"
             android:layout_above="@+id/btnJom"
-            android:layout_alignLeft="@+id/btndum"
-            android:layout_alignStart="@+id/btndum"
+            android:layout_alignLeft="@+id/btndomneun"
+            android:layout_alignStart="@+id/btndomneun"
             android:textSize="@dimen/b2"
             android:background="#b4ffffff" />
 

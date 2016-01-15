@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity48m"
+    android:background="@drawable/road3">
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b243"
+        android:id="@+id/btnaumnaj"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/textView49"
+        android:layout_alignLeft="@+id/btnrat"
+        android:layout_alignStart="@+id/btnrat"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c4"
+        android:id="@+id/textView49"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/h1"
+        android:textStyle="bold"
+        android:textColor="@color/c1" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b244"
+        android:id="@+id/btnrat"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnaumnaj"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b245"
+        android:id="@+id/btncok"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnrat"
+        android:layout_alignLeft="@+id/btnrat"
+        android:layout_alignStart="@+id/btnrat"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b246"
+        android:id="@+id/btnton"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btncok"
+        android:layout_alignLeft="@+id/btncok"
+        android:layout_alignStart="@+id/btncok"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b247"
+        android:id="@+id/btnso"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnton"
+        android:layout_alignLeft="@+id/btnton"
+        android:layout_alignStart="@+id/btnton"
+        android:layout_marginTop="26dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b248"
+        android:id="@+id/btnrung"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnso"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp" />
+</RelativeLayout>

@@ -63,7 +63,37 @@
         <activity android:name=".MyActivity19m" />
         <activity android:name=".Mya" />
         <activity android:name=".MyActivity20m" />
-        <activity android:name=".MyActivity21m"></activity>
+        <activity android:name=".MyActivity21m" />
+        <activity android:name=".MyActivity22m" />
+        <activity android:name=".MyActivity23m" />
+        <activity android:name=".MyActivity24m" />
+        <activity android:name=".MyActivity25m" />
+        <activity android:name=".MyActivity26m" />
+        <activity android:name=".MyActivity27m" />
+        <activity android:name=".MyActivity28m" />
+        <activity android:name=".MyActivity29m" />
+        <activity android:name=".MyActivity30m" />
+        <activity android:name=".MyActivity31m" />
+        <activity android:name=".MyActivity32m" />
+        <activity android:name=".MyActivity33m" />
+        <activity android:name=".MyActivity34m" />
+        <activity android:name=".MyActivity35m" />
+        <activity android:name=".MyAcitivity37m" />
+        <activity android:name=".MyActivity36m" />
+        <activity android:name=".MyActivity37m" />
+        <activity android:name=".MyActivity38m" />
+        <activity android:name=".MyActivity39m" />
+        <activity android:name=".MyActivity40m" />
+        <activity android:name=".MyActivity41m" />
+        <activity android:name=".MyActivity42m" />
+        <activity android:name=".MyActivity43m" />
+        <activity android:name=".MyActivity44m" />
+        <activity android:name=".MyActivity45m" />
+        <activity android:name=".MyActivity46m" />
+        <activity android:name=".MyActivity47m" />
+        <activity android:name=".MyActivity48m" />
+        <activity android:name=".MyActivity49m" />
+        <activity android:name=".MyActivity50m"></activity>
     </application>
 
 </manifest>

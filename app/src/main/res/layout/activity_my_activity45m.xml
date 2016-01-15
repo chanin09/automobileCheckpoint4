@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="apprtc.thekop.automobilecheckpoint4.MyActivity45m"
+    android:background="@drawable/road3">
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b232"
+        android:id="@+id/btnsub"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/textView46"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c4"
+        android:id="@+id/textView46"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/h1"
+        android:textStyle="bold"
+        android:textColor="@color/c1" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b233"
+        android:id="@+id/btnchalong"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnpct"
+        android:layout_alignLeft="@+id/btnpct"
+        android:layout_alignStart="@+id/btnpct"
+        android:layout_marginTop="40dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b234"
+        android:id="@+id/btnpct"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnsub"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b235"
+        android:id="@+id/btnphode"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnchalong"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp" />
+
+    <Button
+        android:layout_width="@dimen/button2"
+        android:layout_height="@dimen/button1"
+        android:text="@string/b236"
+        android:id="@+id/btnjared"
+        android:textStyle="bold"
+        android:background="#b4ffffff"
+        android:textSize="@dimen/b3"
+        android:allowUndo="false"
+        android:layout_below="@+id/btnphode"
+        android:layout_alignLeft="@+id/btnphode"
+        android:layout_alignStart="@+id/btnphode"
+        android:layout_marginTop="40dp" />
+</RelativeLayout>

@@ -194,6 +194,134 @@
     <string name="b153">อู่พิชิตยนต์\n032-316415</string>
     <string name="b154">อู่ส.ช่างยนต์</string>
     <string name="b155">อู่ชัยเจริญเฮดเดอร์</string>
-//สามเรือน
-    <string name="b156">อู่ช่างเสริมเซอร์วิส 089-7948417</string>
+    //สามเรือน
+    <string name="b156">อู่ช่างเสริมเซอร์วิส \n089-7948417</string>
+    //พิกุลทอง
+    <string name="b157">อู่ธนกรการยาง</string>
+    //หลุมดิน
+    <string name="b158">อู่วิริยะยนต์</string>
+    <string name="b159">อู่บางลานทอง </string>
+    //บางป่า
+    <string name="b160">อู่วินัยซุปเปอร์</string>
+    <string name="b161">อู่คีติการช่าง</string>
+
+
+    //ตำบลดำเนินสะดวก
+    <string name="b162">อู่สมศักดิ์</string>
+    <string name="b165">อู่วงศกรเซอร์วิส \n081-4333139 </string>
+    <string name="b166">อู่วัฒนายนต์\n032-254906</string>
+    <string name="b167">อู่โชติการช่าง \n081-5593521</string>
+    <string name="b168">อู่บุญเลิศการาจ\n081-682-5240</string>
+    <string name="b169">อู่ดี.ที.คาร์แคร์</string>
+    //ดอนกรวย
+    <string name="b170">อู่รัตนากร เทอร์โบ \n084-5455894</string>
+    <string name="b171">อู่สุรินทร์การช่าง\n089-6908495</string>
+    <string name="b188">อู่ส.สมบัติการช่าง</string>
+    <string name="b189">อู่เป๊ยกการช่าง</string>
+    <string name="b190">อู่วุฒิชัย</string>
+    <string name="b191">อู่เอสออโต้เซอร์วิส \n032-241 424</string>
+
+    //ท่านัด
+    <string name="b172">อู่Big Shop \n032-346603-4</string>
+    <string name="b173">อู่ทวีการยาง</string>
+    <string name="b174">อู่ชัยยนต์กิจ \n032-353566</string>
+    <string name="b175">อู่ ส.สมบัติ</string>
+    <string name="b176">อู่สืบศักดิ์เบสไทร์ \n032-346678</string>
+    //ดอนไผ่
+    <string name="b177">อู่หนุ่มการช่าง</string>
+    <string name="b163">อู่น้ำหนึ่ง</string>
+    //บัวงาม
+    <string name="b178">อู่x.services \n081-9440227</string>
+    <string name="b179">อู่ช่างหนึ่ง \n089-5888300</string>
+    //บ้านไร่
+    <string name="b180">ยิ่งเจริญคาแคร์</string>
+    <string name="b184">อู่วิวรรณน์\nเจริญยนต์</string>
+    //ประสาทสิทธิ์
+    <string name="b181">อู่นพดลยนต์</string>
+    <string name="b182">อู่สมเกียรติเซอร์วิส</string>
+    //ศรีสุราษฏร์
+    <string name="b183">อู่ช่างโน๊ต \n089-2302918</string>
+    //แพงพวย
+    <string name="b185">อู่ปรีชาการช่าง</string>
+    //ขุนพิทักษ์
+    <string name="b186">อู่ดำเนินคาร์แคร์</string>
+    //ดอนคลัง
+    <string name="b187">อู่ช่างเอ็กซ์ \n086-5459455</string>
+
+    //โพธาราม
+    <string name="b192">อู่เอกเซอร์วิส \n081-8803722</string>
+    <string name="b193">อู่พันเซอร์วิส</string>
+    <string name="b194">อู่เอส.ที โพธาราม</string>
+    <string name="b195">วัดไทร คาร์แคร์ \n032-232046</string>
+    <string name="b196">อู่วายริ่ง \n032-354749</string>
+    //ดอนกระเบื้อง
+    <string name="b197">อู่น้ำเพชร ศูนย์ล้อ \n086-6665650</string>
+    <string name="b198">อู่ช่างรินทร์ \n085-1900156</string>
+    <string name="b199">อู่ช่างชัยยนต์ \n081-0119574</string>
+    <string name="b200">อู่พรชัยเซอร์วิส \n089-9182174</string>
+    //หนองโพ
+    <string name="b201">อู่สุวรรณ์</string>
+    <string name="b202">อู่ทวีชัยการช่าง \n032-35386</string>
+    <string name="b203">อู่แสตมป์การยาง \n085- 5319255</string>
+    <string name="b204">อู่คมสันการช่าง</string>
+    <string name="b205">อู่หนองโพยางยนต์</string>
+    <string name="b206">อู่ช่างโอ๊ต</string>
+    <string name="b207">อู่เทพประสิทธิ์</string>
+    <string name="b208">อู่ทวีชัย</string>
+    //บ้านเลือก
+    <string name="b209">อู่ ส.นภาออโต้แอร์ \n03-233015</string>
+    <string name="b210">ยางโพธาราม</string>
+    <string name="b211">อู่ธ.ธนวัติการยาง</string>
+    <string name="b212">อู่ช่างติ๊ก \n081-9428471</string>
+    <string name="b213">อู่โชคชูเลิศการช่าง\n086-700 4971</string>
+    <string name="b214">ก๋อการยาง \n081-8807385</string>
+    <string name="b215">อู่ประสิทธิ์การช่าง \n032-231 359</string>
+    <string name="b216">อู่พี.ที \n087-0435620</string>
+    //คลองตาคต
+    <string name="b217">อู่โกวิทย์กลการ</string>
+    <string name="b218">ไหล่ย้งบริการ \n032-4256546</string>
+    <string name="b219">อู่San Shop \n082-2449055</string>
+    //บ้านฆ้อง
+    <string name="b220">อู่ช่างตุ๋ย</string>
+    <string name="b221">อู่แป้งเซอร์วิส</string>
+    //บ้านสิงห์
+    <string name="b222">อู่โชคบุญมี \n086-4792475</string>
+    <string name="b223">อู่เจริญกิจมอเตอร์\n084-3311586</string>
+    <string name="b224">อู่ตังกวยการยาง \n081-5715984</string>
+    <string name="b225">อู่หมีล้อแม็กซ์ \n086-7637877</string>
+    <string name="b226">อู่โกศลไทร์เซอร์วิส \n032-356998</string>
+    <string name="b227">อู่ช่างเปี๊ยก \n081-1956609</string>
+    //ดอนทราย
+    <string name="b228">อู่พิทยาเซอร์วิส \n032-375197</string>
+    <string name="b229">อู่ช่างเณร \n086-1711066</string>
+    <string name="b230">อู่พัฒกิจยนต์ \n085-8394419</string>
+    //เจ็ดเสมียน
+    <string name="b231">หยกแม็กซิ่ง \n085-2895571</string>
+    //สร้อยฟ้า
+    <string name="b232">อู่ทรัพย์สมบูรณ์  \n032-354101</string>
+    <string name="b233">อู่ฉลองออโต้คลัทซ์  \n081-4882661</string>
+    <string name="b234">พี.ซี.ที ออโต้ พาร์ท \n081-3069259</string>
+    <string name="b235">โพธารามดีเซล \n084-3945561</string>
+    <string name="b236">อู่เจริญยนต์</string>
+    //ท่าชุมพล
+    <string name="b237">อู่หน่องคาร์แคร์\n032-354869์</string>
+    <string name="b238">อู่อ๊อดเซอร์วิส\n089-6144119</string>
+    <string name="b239">อู่ศรีเจริญการช่าง \n032-233496</string>
+    //เตาปูน
+    <string name="b240">อู่ช่างรินทร์</string>
+    <string name="b241">อู่ช่างมา \n081-9955958</string>
+    <string name="b242">อู่อ๊อดเจริญยางยนต์ \n081-0075036</string>
+    //นางแก้ว
+    <string name="b243">อู่อำนาจการช่าง\n081-3784739</string>
+    <string name="b244">อู่ช่างรัตน์ \n086-7903758</string>
+    <string name="b245">อู่โชคชัยการช่าง</string>
+    <string name="b246">ต้น คาร์แคร์</string>
+    <string name="b247">อู่ส.การช่าง \n032-359255</string>
+    <string name="b248">อู่รุ่งตะวัน \n086-5761139</string>
+    //ธรรมเสน
+    <string name="b249">อู่รัตน์การยาง \n032-359603</string>
+    <string name="b250">อู่ชัยวัฒน์\n081-7436111</string>
+    //เขาชะงุ้ม
+    <string name="b251">อู่สมคิด</string>
+
 </resources>

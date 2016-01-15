@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MyActivity3 extends AppCompatActivity {
 private Button btnna,btnjd,btndon,btnpong,btnhoi,btnkatin,btnang,btnkok
-        ,btnsam;
+        ,btnsam,btnpikul,btnlum,btnbangpa;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -82,6 +82,30 @@ private Button btnna,btnjd,btndon,btnpong,btnhoi,btnkatin,btnang,btnkok
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), MyActivity21m.class);
+                startActivity(i);
+            }
+        });
+        Button button9 = (Button) findViewById(R.id.btnpikul);
+        button9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), MyActivity22m.class);
+                startActivity(i);
+            }
+        });
+        Button button10 = (Button) findViewById(R.id.btnlum);
+        button10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), MyActivity23m.class);
+                startActivity(i);
+            }
+        });
+        Button button11 = (Button) findViewById(R.id.btnbangpa);
+        button11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), MyActivity24m.class);
                 startActivity(i);
             }
         });
